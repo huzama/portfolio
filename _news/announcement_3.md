@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-08-29 07:59:00-0400
 inline: true
-related_posts: false
+permalink: /news/phd
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Beginning Ph.D. program at <a href='https://www.kaist.ac.kr/en/'>KAIST</a> <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI</a>.

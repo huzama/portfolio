@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-07-23 15:59:00-0400
 inline: true
-related_posts: false
+permalink: /news/graduation
 ---
 
-A simple inline announcement.
+Obtained a Bachelors of Computer Engineering from <a href='https://nust.edu.pk/'>National University of Sciences and Technology (NUST)</a>, Pakistan.
